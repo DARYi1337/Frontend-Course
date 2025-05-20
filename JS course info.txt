@@ -1,2 +1,4 @@
 Current JS course - https://www.youtube.com/watch?v=EerdGm-ehJQ
 20.05.2025 stopped at stage 3.
+https://smartiqa.ru/courses/git - useful for git learning
+https://learngitbranching.js.org/?locale=ru_RU - useful for git learning / for fun
